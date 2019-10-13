@@ -1,1 +1,1 @@
-Unpack SDL2_mixer-2.0.4.gz to this directory
+Unpack SDL2_mixer-2.0.4.tar.gz to this directory
