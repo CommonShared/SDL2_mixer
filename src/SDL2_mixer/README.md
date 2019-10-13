@@ -1,1 +1,0 @@
-Unpack SDL2_mixer.7z to this directory
